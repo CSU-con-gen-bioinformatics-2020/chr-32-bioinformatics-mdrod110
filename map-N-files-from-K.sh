@@ -102,6 +102,7 @@ done
 # from each sample (SM) into a single BAM file, and we shall also
 # mark duplicates in it:
 
+
 # make a directory for the output
 mkdir -p mkdup
 
